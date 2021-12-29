@@ -81,7 +81,7 @@ def hero():
     numbers=[]
     while(y):
         clear()
-        banner='figlet Hi Siddhu'
+        banner='figlet Hi Basha'
         system(banner)
         print("Contact me on telegram @IDFCMONEY")
         print("Enter ",newperiod," Bcone Price :")
@@ -146,7 +146,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet Hi Siddhu'
+        banner='figlet Hi Basha'
         system(banner)
         print("Hi!! Thanks for buying the hack")
         #print("Hi! thanks for trying our DEMO")
@@ -173,7 +173,7 @@ else:
     test="LOLISLIFE"
     night="LIFEISLOL"
     nextday="FUCK"
-    banner='figlet Hi Siddhu'
+    banner='figlet Hi Basha'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -219,7 +219,7 @@ else:
         bhai=input(": ")
         if(bhai==code or bhai==test):
             clear()
-            banner='figlet Hi Siddhu'
+            banner='figlet Hi Basha'
             system(banner)
             print("----------Your play time-----------")
             print("13th Dec 2021, 02:30 PM- 03:00 PM")
@@ -242,7 +242,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==nextday):
             clear()
-            banner='figlet Hi Siddhu'
+            banner='figlet Hi Basha'
             system(banner)
             print("----------Your play time-----------")
             print("1st-30th Dec 2021, 02:30 PM- 03:00 PM")
@@ -259,7 +259,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==night):
             clear()
-            banner='figlet Hi Siddhu'
+            banner='figlet Hi Basha'
             system(banner)
             print("----------Your play time-----------")
             print("10th Dec 2021,  08:30 PM- 09:00 PM")
@@ -275,6 +275,6 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         else:
             clear()
-            banner='figlet Siddhu '
+            banner='figlet Basha '
             system(banner)
             print("Incorrect Activation Code :")
